@@ -1,7 +1,17 @@
-# This is a sample Python script.
+print("Hello,World")
+print(12+89-1)# This is a sam
+#('ist program')
+print(9**0.5*5)
+#('2nd program')
+print(9.99>9.98, 1000!=1000.1)
+print(9.99>9.98 and 1000!=1000.1)
+#('3rd program')
+print(2*2+2)
+print(2*(2+2))
+print(6==8)
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+
 
 
 def print_hi(name):
